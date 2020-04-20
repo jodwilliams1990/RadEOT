@@ -15,4 +15,5 @@ Folder contents:
 - Software - instructions to download, install and run RadEOT on a clean install of Raspbian on a Raspberry Pi 3B+
 - Hardware - (COMING SOON) documents to enable 3D printing of a case for RadEOT. These were the basis of the initial deployment of 27 RadEOT units in Q1/2 2020
 - ADS-B - The basis of the PlaneTracker unit for aircraft tracking and data analysis. It is designed to be run by itself on a Mac.
-- Radio Database - Radio database is a script developed in August 2019 to identify what radio sources occur at a particular frequency, using data from Ofcom. It also includes the original gui2408.py is the (slightly amended) working version from 24/08/18 written in TKinter, and demod.py that will form the basis of the Deconvolution activity.
+- RadioDatabase - Radio database is a script developed in August 2019 to identify what radio sources occur at a particular frequency, using data from Ofcom. 
+- Old - Previous versions of software: the original gui2408.py is the (slightly amended) working version from 24/08/18 written in TKinter, and demod.py that will form the basis of the Deconvolution activity.
