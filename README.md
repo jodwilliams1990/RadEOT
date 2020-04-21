@@ -8,7 +8,8 @@ RadEOT - the Radio Educational Outreach Tool - uses commercially available techn
 - DVB-T software defined radio (SDR) dongle. This is a large USB stick that can plug into a computer, and uses highly configurable SDR to process data from an antenna
 - 7" touchscreen, 
 - 20000mAh battery pack and
-- 3d printed case 
+- 3d printed case
+
 to collect freely available radio data for educational purposes. RadEOT has been developed at the University of Leicester and co-designed with partners across the United Kingdom to ensure it is fit for purpose to complement educational teaching across KS3-5 (ages 11-18), and beyond. In this repository you can find the software and hardware required to make and run your own RadEOT unit, as well as some other developmental codes. 
 
 ## What can RadEOT do?
