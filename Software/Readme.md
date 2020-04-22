@@ -2,6 +2,10 @@
 
 This is the software for the Radio Educational Outreach Tool (RadEOT), up to date to 20/04/2020. The development was led by Dr Jamie Williams at the University of Leicester, with Felicity Easton, Jordan Penney and Prof. Jon Lapington. Several undergraduate and project students also helped in the development - acknowledgements go to Ellen, Emily, Dan, Natasha and Drew for their hard work.
 
+Recommended:
+- Raspberry Pi 3B+ or higher
+- 16GB SD card or larger
+
 To install the software on a Raspberry Pi 3B+:
 - sudo apt update
 - sudo apt full-upgrade
@@ -28,9 +32,11 @@ To install the software on a Raspberry Pi 3B+:
 - sudo apt-get remove qt5ct
 - sudo apt-get install qt creator
 - Once GQRX is installed, copy contents of "GQRX" folder to /home/pi/.config/gqrx
-- Copy Run-RadEOT.sh to a convenient location (most likely Desktop)
+- Copy Run-RadEOT.sh to a convenient location (most likely Desktop). cd to the location and run "chmod +x Run-RadEOT.sh"
 - sudo nano /etc/xdg/lxsession/LXDE-pi/autostart, add "@/home/pi/[DIRECTORY]/Run-RadEOT.sh", Ctrl+X, Y, Enter (from https://raspberry-projects.com/pi/pi-operating-systems/raspbian/auto-running-programs-gui)
 
 Enjoy!
 
 If you have any comments, questions or issues, please e-mail jodw1@leicester.ac.uk.
+
+Updated 22/4/2020
