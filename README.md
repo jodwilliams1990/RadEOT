@@ -1,6 +1,6 @@
 # RadEOT
 
-Updated 21/04/2020
+Updated 11/03/2021
 
 ## What is RadEOT?
 RadEOT - the Radio Educational Outreach Tool - uses commercially available technology including a: 
@@ -23,7 +23,22 @@ RadEOT will continue to be developed to include meteor shower tracking and downl
 ## What is in the repository?
 Folder contents:
 - Software - instructions to download, install and run RadEOT on a clean install of Raspbian on a Raspberry Pi 3B+
-- Hardware - (COMING SOON) documents to enable 3D printing of a case for RadEOT. These were the basis of the initial deployment of 27 RadEOT units in Q1/2 2020
 - ADS-B - The basis of the PlaneTracker unit for aircraft tracking and data analysis. It is designed to be run by itself on a Mac.
 - RadioDatabase - Radio database is a script developed in August 2019 to identify what radio sources occur at a particular frequency, using data from Ofcom. 
 - Old - Previous versions of software: the original gui2408.py is the (slightly amended) working version from 24/08/18 written in TKinter, and demod.py that will form the basis of the Deconvolution activity.
+
+## License
+RadEOT is licensed under a GPLv3 license, Copyright (C) 2021- Jamie Williams
+    
+    This program is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
+
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with this program.  If not, see <https://www.gnu.org/licenses/>.
