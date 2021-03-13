@@ -37,6 +37,4 @@ To install the software on a Raspberry Pi 3B+:
 
 Enjoy!
 
-If you have any comments, questions or issues, please e-mail jodw1@leicester.ac.uk.
-
-Updated 22/4/2020
+Updated 13/3/2021
