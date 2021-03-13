@@ -29,4 +29,5 @@ Folder contents:
 
 ## License
 RadEOT is licensed under an MIT License Copyright (c) 2021 Jamie Williams
+
 Please read the terms of the License in the "License" file.
