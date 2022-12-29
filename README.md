@@ -1,7 +1,6 @@
 # RadEOT
 
 Removed 29/12/2022
-Updated 11/03/2021
 
 ## What is RadEOT?
 RadEOT - the Radio Educational Outreach Tool - uses commercially available technology including a: 
